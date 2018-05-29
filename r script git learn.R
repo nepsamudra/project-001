@@ -13,3 +13,7 @@ mean(x)
 
 m<- c(1:7)
 
+samudra <- c(3:90)
+summary(samudra)
+
+
